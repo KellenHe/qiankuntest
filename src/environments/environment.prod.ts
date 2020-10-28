@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  reactAppAddress: '//localhost:8000/'
 };
